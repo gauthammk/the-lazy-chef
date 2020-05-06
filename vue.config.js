@@ -3,6 +3,6 @@ module.exports = {
     "vuetify"
   ],
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/the-lazy-chef/'
+    ? '/vue-recipe-app/'
     : '/'
 }

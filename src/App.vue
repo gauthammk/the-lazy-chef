@@ -3,7 +3,8 @@
     <v-container fluid class="pa-0">
       <v-row>
         <v-col class="green white--text text-center">
-          <h1>The Lazy Chef</h1>
+          <h1 class="main-heading">The Lazy Chef</h1>
+          <v-img src="./assets/tlc.png" width="15rem" class="mx-auto"></v-img>
           <Search v-on:get-recipes="getRecipes" />
         </v-col>
       </v-row>
@@ -53,3 +54,10 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+.main-heading {
+  font-family: Lobster;
+  font-size: 5rem;
+}
+</style>
