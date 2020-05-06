@@ -1,4 +1,4 @@
-# vue-recipe-app
+# the-lazy-chef
 
 ## Project setup
 ```
