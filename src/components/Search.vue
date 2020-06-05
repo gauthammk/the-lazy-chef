@@ -7,7 +7,7 @@
         hide-details
         single-line
         clearable
-        placeholder="What's in your kitchen?"
+        placeholder="What's in your kitchen? (Add comma separated ingredients)"
         v-model="ingredients"
         type="text"
       />

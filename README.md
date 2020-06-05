@@ -4,6 +4,8 @@
 
 Check it out here! : https://gauthammk.github.io/the-lazy-chef/
 
+This app uses the Recipe Puppy API. Find out more about it here : http://www.recipepuppy.com/about/api/
+
 ## Project setup
 
 ```
